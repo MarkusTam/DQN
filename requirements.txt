@@ -1,7 +1,7 @@
 dm_reverb==0.14.0
 gym==0.23.0
 matplotlib==3.9.2
-numpy==1.24.3
+numpy==1.26.4
 pandas==2.2.3
 pandas_datareader==0.10.0
 Requests==2.32.3
